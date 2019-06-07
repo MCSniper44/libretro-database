@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Vie infinie Claire"
+cheat0_code = "800C6AEA+00FF+800C6BAC+0000"
+cheat0_enable = "false"
+
+cheat1_desc = "Vie infinie Leon"
+cheat1_code = "800C6B52+00FF+800C6C14+0000"
+cheat1_enable = "false"
+
+cheat2_desc = "Leon Avoir la Gatling Gun ( R2 + Carré)"
+cheat2_code = "D00C5144+0082+800CB840+FF12"
+chea+2_enable = "false"
